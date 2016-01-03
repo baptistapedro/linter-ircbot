@@ -5,7 +5,6 @@ from twisted.python import log
 from string import ascii_lowercase, digits
 from random import sample
 
-from pylint.lint import Run
 import requests
 
 import re, sys, os
